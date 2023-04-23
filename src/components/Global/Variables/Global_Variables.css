@@ -1,0 +1,18 @@
+/* GLOBAL VARIABLES, STYLES AND IMPORTS */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic%7CRoboto:300,regular,500');
+
+:root {
+  /* Colours */
+  --main-bg-colour: #1d77b4;
+  --secondary-bg-colour: #146093;
+
+
+  /* Fonts */
+  --primary-font: 'Open Sans', sans-serif;
+  --secondary-font: 'Roboto', sans-serif;
+}
+
+body {
+  margin: 0;
+}
